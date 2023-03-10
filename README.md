@@ -15,8 +15,8 @@
   <img align="center" alt="Rodrygo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrygo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrygo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rodrygo-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/fktQzCq/download20230206143346.png?width=676&height=676">
-</div>
+<!--  <img align="right" alt="Rodrygo-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/fktQzCq/download20230206143346.png?width=676&height=676">
+</div> -->
 
 ##
 
